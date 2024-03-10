@@ -1,0 +1,5 @@
+what is 2+2?,1,3,4,0,4
+Who invented Java Programming?,Guido van Rossum,James Gosling,Dennis Ritchie,Bjarne Stroustrup,James Gosling
+What is the extension of java code files?,.js,.txt,.class,.java,.java
+Number of primitive data types in Java are?,6,7,8,9,8
+What is the size of float and double in java?,32 and 64,32 and 32,64 and 64,64 and 32,32 and 64

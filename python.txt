@@ -1,0 +1,5 @@
+Who developed Python Programming Language?,Wick van Rossum,Rasmus Lerdorf,Guido van Rossum,Niene Stom,Guido van Rossum
+Is Python case sensitive when dealing with identifiers?,no,yes,machine dependent,none of the mentioned,yes
+Which of the following is the correct extension of the Python file?,.python,.pl,.py,.p,.py
+All keywords in Python are in _________,Capitalized,lower case,UPPER CASE,None of the mentioned,None of the mentioned
+What will be the value of the following Python expression? 4 + 3 % 5,7,2,4,1,7
